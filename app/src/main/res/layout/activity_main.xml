@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:my="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <EditText
+        android:id="@+id/listenerid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入监控者的手机号码:"
+        android:height="60dp"
+        android:textColor="#ffffff"
+        android:textSize="28dp"
+        android:textColorHint="@color/colorAccent"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <com.example.hp.findyou.Mybutton
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            my:drawable="@drawable/b_incoming"
+            android:text="来电监控"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/incoming"
+            android:background="@drawable/close"
+            android:layout_marginTop="10dp" />
+        <com.example.hp.findyou.Mybutton
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            my:drawable="@drawable/b_phone"
+            android:text="去电监控"
+            android:id="@+id/outcoming"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/close"
+            android:layout_marginTop="10dp"/>
+        <com.example.hp.findyou.Mybutton
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            my:drawable="@drawable/b_message"
+            android:text="短信监控"
+            android:id="@+id/message"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/close"
+            android:layout_marginTop="10dp"/>
+        <com.example.hp.findyou.Mybutton
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            my:drawable="@drawable/b_onekey"
+            android:text="开始监控"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/myswitch"
+            android:background="@drawable/close"
+            android:layout_marginTop="10dp"/>
+    </LinearLayout>
+
+
+</RelativeLayout>

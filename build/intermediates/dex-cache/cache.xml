@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_06b1716323a6d601314684731e14ffef0a849c56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_3661a9c19de226b89cacd08cf0865b9678dac30e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_3f4255ff1ac63d45c067fb0c50ce787964a46029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leijunjie/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_916f64c7d52d9f6c87cf9c269bb47f3bd429a4ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_b345023e89a8fde8cba5f259419421086c877b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_1de4cff8cf014e1f88276849568bdbfcc0f82ed0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_6a8724d4177d9dbd3a291cb3d00fdcd5f81b9d7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_acc7fdd21a2acd60259595f9c0c4bb74e96f15df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_e8b0545aa1b5c0f937167dc8b23a6a5229180a76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/leijunjie/Downloads/FindYou2333/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_6504c5455d5acc00801d6f558c6426c6d158c233.jar" />
+    </item>
+
+</items>
