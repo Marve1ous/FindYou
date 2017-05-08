@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.hp.findyou">
+    package="com.example.hp.findyou"
+    android:versionCode="1"
+    android:versionName="1.1">
 <uses-permission android:name="android.permission.SEND_SMS"/>
 
     <uses-permission android:name="android.permission.SEND_SMS"/>
@@ -26,11 +28,6 @@
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
-        </activity>
-        <activity android:name=".MyFirst"
-            android:label="First">
-        </activity>
-        <activity android:name=".MySecond" android:label="Second">
         </activity>
         <service android:name=".MyService"></service>
     </application>

